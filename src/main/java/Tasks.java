@@ -41,6 +41,7 @@ public class Tasks {
             System.out.println("Строки не идентичны");
         }
     }
+
     public static void task3() {
         int[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
 
